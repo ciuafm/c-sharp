@@ -1,0 +1,2 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe %1 /r:C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.IO.Compression.FileSystem.dll /r:C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.IO.Compression.dll
+pause
